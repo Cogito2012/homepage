@@ -85,6 +85,10 @@ button:focus { outline: none; }
 	margin-bottom: 30px;
 }
 
+/* .BMap_mask {
+    background: transparent url(http://api0.map.bdimg.com/images/blank.gif);
+} */
+
 .tm-site-name { margin-bottom: 35px; }
 
 .cd-hero-slider .tm-site-name { 
