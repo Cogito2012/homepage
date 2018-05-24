@@ -1,3 +1,3 @@
-# MyHomePage
 
-## In development
+
+## My profile repo for academic usage.
