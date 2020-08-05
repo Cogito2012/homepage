@@ -1,0 +1,9 @@
+@article{Yang2017GRSL,
+title = "Group Lasso based Band Selection for Hyperspectral Image Classification",
+journal = "IEEE Geoscience and Remote Sensing Letters",
+volume = "14",
+number = "12",
+pages = "2438-2442",
+year = "2017",
+author = "Daiqin Yang and Wentao Bao",
+}

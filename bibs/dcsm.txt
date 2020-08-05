@@ -1,0 +1,9 @@
+@article{Bao2020NeuroCom,
+title = "Human scanpath prediction based on deep convolutional saccadic model",
+journal = "Neurocomputing",
+volume = "404",
+pages = "154 - 164",
+year = "2020",
+issn = "0925-2312",
+author = "Wentao Bao and Zhenzhong Chen",
+}

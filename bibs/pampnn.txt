@@ -1,0 +1,7 @@
+@InProceedings{HongICPR2020,
+    author = {Hong, Hanbin and Bao, Wentao and Hong, Yuan and Kong, Yu},
+    title  = {Privacy Attributes-aware Message Passing Neural Network for Visual Privacy Attributes Classification},
+    booktitle = {Proceedings of International Conference on Pattern Recognition (ICPR)},
+    month  = {January},
+    year   = {2021}
+}

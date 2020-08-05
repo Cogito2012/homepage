@@ -1,0 +1,7 @@
+@InProceedings{BaoIROS2020,
+    author = {Bao, Wentao and Yu, Qi and Kong, Yu},
+    title  = {Object-Aware Centroid Voting for Monocular 3D Object Detection},
+    booktitle = {Proceedings of IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+    month  = {October},
+    year   = {2020}
+}

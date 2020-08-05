@@ -1,0 +1,7 @@
+@InProceedings{Chen2020ECCV,
+author = {Chen, Junwen and Bao, Wentao and Kong, Yu},
+title = {Group Activity Prediction with Sequential Relational Anticipation Model},
+booktitle = {Proceedings of the European Conference on Computer Vision (ECCV)},
+month = {August},
+year = {2020}
+}

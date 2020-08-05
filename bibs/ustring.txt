@@ -1,0 +1,7 @@
+@InProceedings{BaoMM2020,
+    author = {Bao, Wentao and Yu, Qi and Kong, Yu},
+    title  = {Uncertainty-based Traffic Accident Anticipation with Spatio-Temporal Relational Learning},
+    booktitle = {Proceedings of the 28th ACM International Conference on Multimedia (MM ’20)},
+    month  = {October},
+    year   = {2020}
+}

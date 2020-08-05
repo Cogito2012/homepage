@@ -1,0 +1,7 @@
+@InProceedings{ChenMM2020,
+    author = {Chen, Junwen and Bao, Wentao and Kong, Yu},
+    title  = {Activity-driven Weakly-Supervised Spatio-Temporal Grounding from Untrimmed Videos},
+    booktitle = {Proceedings of the 28th ACM International Conference on Multimedia (MM ’20)},
+    month  = {October},
+    year   = {2020}
+}

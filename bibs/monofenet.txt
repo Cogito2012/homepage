@@ -1,0 +1,9 @@
+@article{Bao2019TIP,
+title = "{MonoFENet}: Monocular 3D Object Detection with Feature Enhancement Networks",
+journal = "IEEE Transactions on Image Processing",
+volume = "29",
+pages = "2753-2765",
+year = "2019",
+month = "November",
+author = "Wentao Bao and Bin Xu and Zhenzhong Chen",
+}
