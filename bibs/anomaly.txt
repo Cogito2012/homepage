@@ -1,0 +1,7 @@
+@InProceedings{DengIJCNN2021,
+    author = {Dengxiong, Xiwen and Bao, Wentao and Kong, Yu},
+    title  = {Multiple Instance Relational Learning for Video Anomaly Detection},
+    booktitle = {International Joint Conference on Neural Network (IJCNN)},
+    month  = {July},
+    year   = {2021}
+}
