@@ -1,0 +1,7 @@
+@InProceedings{BaoICCV2021,
+    author = {Bao, Wentao and Yu, Qi and Kong, Yu},
+    title  = {Evidential Deep Learning for Open Set Action Recognition},
+    booktitle = {International Conference on Computer Vision (ICCV ’20)},
+    month  = {October},
+    year   = {2021}
+}
