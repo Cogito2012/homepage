@@ -1,0 +1,7 @@
+@InProceedings{LinBMVC2021,
+    author = {Lin, Xinmiao and Bao, Wentao and Wright, Matthew and Kong, Yu},
+    title  = {Gradient Frequency Modulation for Visually Explaining Video Understanding Models},
+    booktitle = {British Machine Vision Conference (BMVC ’21)},
+    month  = {November},
+    year   = {2021}
+}
