@@ -1,0 +1,7 @@
+@InProceedings{BaoCVPR2022,
+    author = {Bao, Wentao and Yu, Qi and Kong, Yu},
+    title  = {OpenTAL: Towards Open Set Temporal Action Localization},
+    booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR ’22)},
+    month  = {June},
+    year   = {2022}
+}
