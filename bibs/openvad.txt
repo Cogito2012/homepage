@@ -1,0 +1,7 @@
+@InProceedings{ZhuECCV2022,
+    author = {Zhu, Yuansheng and Bao, Wentao and Yu, Qi},
+    title  = {Towards Open Set Video Anomaly Detection},
+    booktitle = {Proceedings of the European Conference on Computer Vision (ECCV)},
+    month  = {October},
+    year   = {2022}
+}
