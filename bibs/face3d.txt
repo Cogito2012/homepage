@@ -1,0 +1,7 @@
+@InProceedings{ZengCVPR2023,
+    author = {Libing Zeng, Lele Chen, Wentao Bao, Zhong Li, Yi Xu, Junsong Yuan, Nima Khademi Kalantari},
+    title  = {3D-aware Facial Landmark Detection via Multiview Consistent Training on Synthetic Data},
+    booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR ’23)},
+    month  = {June},
+    year   = {2023}
+}
