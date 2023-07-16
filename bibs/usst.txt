@@ -1,0 +1,7 @@
+@inproceedings{BaoUSST_ICCV23,
+  author = {Wentao Bao and Lele Chen and Libing Zeng and Zhong Li and Yi Xu and Junsong Yuan and Yu Kong},
+  title = {Uncertainty-aware State Space Transformer for Egocentric 3D Hand Trajectory Forecasting},
+  booktitle = {International Conference on Computer Vision (ICCV '23)},
+  month  = {October},
+  year = {2023}
+}
