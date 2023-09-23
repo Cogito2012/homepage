@@ -1,0 +1,6 @@
+@article{lin2023model,
+  title={On Model Explanations with Transferable Neural Pathways},
+  author={Lin, Xinmiao and Bao, Wentao and Yu, Qi and Kong, Yu},
+  journal={arXiv preprint arXiv:2309.09887},
+  year={2023}
+}
