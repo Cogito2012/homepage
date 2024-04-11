@@ -1,0 +1,6 @@
+@InProceedings{LiECCV2024,
+    author = {Yifan Li and Anh Dao and Wentao Bao and Zhen Tan and Tianlong Chen and Huan Liu and Yu Kong},
+    title  = {Facial Behavior Analysis with Instruction Tuning},
+    booktitle = {in submission},
+    year   = {2024}
+}
