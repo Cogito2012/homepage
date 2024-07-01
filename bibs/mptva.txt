@@ -1,0 +1,6 @@
+@InProceedings{ChenECCV2024,
+    author = {Yuxiao Chen and Kai Li and Wentao Bao and Deep Patel and Yu Kong and Martin Renqiang Min and Dimitris N. Metaxas},
+    title  = {Learning to Localize Actions in Instructional Videos with LLM-Based Multi-Pathway Text-Video Alignment},
+    booktitle = {Proceedings of the European Conference on Computer Vision (ECCV)},
+    year   = {2024}
+}

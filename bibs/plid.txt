@@ -1,6 +1,6 @@
-@article{bao2023prompting,
+@InProceedings{bao2023eccv24,
   title={Prompting Language-Informed Distribution for Compositional Zero-Shot Learning},
   author={Bao, Wentao and Chen, Lichang and Huang, Heng and Kong, Yu},
-  journal={arXiv preprint arXiv:2305.14428},
-  year={2023}
+  booktitle = {Proceedings of the European Conference on Computer Vision (ECCV)},
+  year={2024}
 }
