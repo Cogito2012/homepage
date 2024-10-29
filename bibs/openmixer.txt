@@ -1,0 +1,6 @@
+@InProceedings{bao2025wacv,
+  title={Exploiting VLM Localizability and Semantics for Open Vocabulary Action Detection},
+  author={Wentao Bao and Kai Li and Yuxiao Chen and Deep Patel and Martin Renqiang Min and Yu Kong},
+  booktitle = {IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  year={2025}
+}
